@@ -58,18 +58,31 @@ Le défi de ce projet consistait à recupérer les 100 derniers tweets de cette 
 * Negatif
 
 Les différentes étapes à suivre:
-1- Téléchargement et importation des bibliothèques nécessaires (tweepy, wordcloud, textblob, et textblob-fr)
+
+1- Téléchargement et importation des bibliothèques nécessaires (tweepy, wordcloud, textblob, et textblob-fr),
+
 2- Authentification Client de l'API Twitter,
+
 3- Extraction des 100 derniers tweets de l'utilisateur Twitter "Alassane Ouattara",
+
 4- Création d'un dataframe avec une colonne appelée Tweets dans lequel nous allons ajouter nos tweets,
+
 5- Création d'une fonction pour le nettoyage des tweets récupérés afin de les préparer à l'analyse de sentiment,
+
 6- Enregistrement du jeu de données de tweets dans un fichier csv,
+
 7- Création d'une fonction pour obtenir la polarité et la subjectivité et ajouter les résultats dans deux nouvelles colonnes du dataframe,
+
 8- Traçage de nuage de mots avec WordCloud,
+
 9- Création d'une fonction pour calculer l'analyse des émotiions négatives, neutres et positives,
-10- Visualisation de la polarité et de la subjectivité
-11- Obtenir les fréquences par type d'émotions (positif, neutre, negatif)
-12- Traçage et visualisation des fréquences de tweets par sentiment
-13- Sauvegarde du résultat de l'analyse dans un fichier csv
+
+10- Visualisation de la polarité et de la subjectivité,
+
+11- Obtenir les fréquences par type d'émotions (positif, neutre, negatif),
+
+12- Traçage et visualisation des fréquences de tweets par sentiment,
+
+13- Sauvegarde du résultat de l'analyse dans un fichier csv.
 
 L'ensemble de données, des résultats et les graphiques sont disponibles dans le repersitory.
