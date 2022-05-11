@@ -1,4 +1,4 @@
-# Projet Analyse de sentiments - Tweets du Président de la République de Cote d'Ivoire
+# PROJET NLP : ANALYSE DE SENTIMENTS - TWEETS DU PRESIDENT DE LA REPUBLIQUE DE COTE D'IVOIRE
 
 ![Uploading tengyart-uh6msP8Md_E-unsplash.jpg…]()
 
