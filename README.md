@@ -1,8 +1,6 @@
 # PROJET NLP : ANALYSE DE SENTIMENTS - TWEETS DU PRESIDENT DE LA REPUBLIQUE DE COTE D'IVOIRE
 
-
-![Uploading tengyart-uh6msP8Md_E-unsplash.jpg…]()
-
+![tengyart-uh6msP8Md_E-unsplash](https://user-images.githubusercontent.com/101726242/168068986-4fdb5614-0645-44e8-b654-b140b8e04374.jpg)
 
 L’analyse de sentiments est une technique qui s’est fortement développée en même temps que les réseaux sociaux, où les utilisateurs ont la possibilité de s’exprimer massivement et de partager en permanence leurs sentiments. L’analyse de sentiment (ou sentiment analysis en anglais) vise donc à déterminer la tonalité émotionnelle d’un discours en le classifiant dans différentes catégories comme positif, négatif ou neutre par exemple.
 
