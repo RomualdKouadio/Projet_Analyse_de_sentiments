@@ -49,7 +49,7 @@ Bien évidemment, il existe des phrases subtiles et complexes à analyser pour d
 
 Même si la technologie des réseaux de neurones récurrents (RNN) existe depuis plusieurs années, ce n’est que récemment que les scientifiques ont réussi à obtenir des résultats très prometteurs, notamment grâce aux capacités de calcul qui sont en constante amélioration. Cette technologie est donc utilisée de plus en plus régulièrement par les entreprises souhaitant avoir un retour de leurs utilisateurs sur un produit ou tout autre personne ayant accès à une grande quantité de messages afin d’en dégager un sentiment général.
 
-Dans ce projet, je me suis intéressant à une personnalité très importante de la République de Cote d'Ivoire. Il s'agit du Président Alassane Ouattara.
+Dans ce projet, je me suis intéressé à une personnalité très importante de la République de Cote d'Ivoire. Il s'agit du Président Alassane Ouattara.
 
 Le défi de ce projet consistait à recupérer les 100 derniers tweets de cette personnalité publique via l'API web de Twitter et de procéder par la suite à l'analyse de ses publications. Le but est d'utiliser les méthodes du NLP (Natural Language Processing) pour pour classifier les émotions du PR ADO dans les classes suivantes:
 
@@ -79,10 +79,10 @@ Les différentes étapes à suivre:
 
 10- Visualisation de la polarité et de la subjectivité,
 
-11- Obtenir les fréquences par type d'émotions (positif, neutre, negatif),
+11- Obtention des fréquences par type d'émotions (positif, neutre, negatif),
 
 12- Traçage et visualisation des fréquences de tweets par sentiment,
 
 13- Sauvegarde du résultat de l'analyse dans un fichier csv.
 
-L'ensemble de données, des résultats et les graphiques sont disponibles dans le repersitory.
+L'ensemble de données, des résultats et les graphiques sont disponibles dans le repository.
